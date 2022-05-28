@@ -1,0 +1,9 @@
+22/nov/2021
+1:)>search an element using Linear and Binary Searching in Array
+2:)>insert an element at particular position in Array
+3:)> delete an element from an Array
+4:)> sort an Array using "selection Sort"
+5:)> sort an Array using "Bubble Sort"
+6:)> pascale triangle
+7:)> diamond pattern
+8:)> diamond should be hollow and outer border is to be coverd by "*"

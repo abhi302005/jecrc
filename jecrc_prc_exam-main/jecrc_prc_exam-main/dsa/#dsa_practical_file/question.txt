@@ -1,0 +1,16 @@
+1. Write a program to implement the linear search
+2. Write a program to implement the binary search
+3. Write a program to implement the bubble sort
+4. Write a program to implement the selection sort
+5. Write a program to implement the insertion sort
+6. Write a program to insert element in array
+7. Write a program to delete an element in array
+8. Write a program to add two matrix
+9. Write a program for multiplication of two matrix
+10. WAP to implement queue using array.
+11. WAP to implement stack using array.
+12. WAP implement singly linked list.
+13. WAP implement stack using linked list.
+14. WAP implement queue using linked list.
+15. WAP to perform quick sort.
+16. WAP to perform Binary search tree.
